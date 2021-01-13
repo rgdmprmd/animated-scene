@@ -44,6 +44,7 @@ function baten() {
 
     button.style.opacity = '1';
     button.style.transform = 'translate(0)';
+
 }
 
 function navs() {
